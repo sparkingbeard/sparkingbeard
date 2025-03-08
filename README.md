@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @sparkingbeard
-- 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning javascript
+- 👋 Hi, I’m @sparkingbeard.
+- 👀 I’m interested in Full Stack Java devlopment.
+- 🌱 I’m always learning.
 - 💞️ I’m looking to collaborate on html,css and javascript projects
-- 📫 you can reach me on x with username: @Tushar_can_code
 - 😄 Pronouns: he
 - ⚡ Fun fact: I am 23 and still a student.
 
