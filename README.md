@@ -7,17 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on OCHI website clone project using React framework. [OCHI CLONE](https://github.com/sparkingbeard/OCHI-Clone)
+- 🔭 I’m currently working on Finance Dashboard website clone project using React framework. [OCHI CLONE](https://github.com/sparkingbeard/OCHI-Clone)
 
 - 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sparkingbeard](https://github.com/sparkingbeard)
 
-- 💬 Ask me about **Java, Spring Boot , React and MySQL.**
+- 💬 Ask me about **Node.js , Express.js, React and MySQL.**
 
 - 📫 How to reach me **tusharbisen8@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TX8WPMBxpD6pK5rmCmeRvDxmtY-bvc28/view?usp=drive_link](https://drive.google.com/file/d/1TX8WPMBxpD6pK5rmCmeRvDxmtY-bvc28/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
